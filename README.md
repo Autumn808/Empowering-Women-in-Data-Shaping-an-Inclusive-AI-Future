@@ -3,7 +3,7 @@
 
 Diverse voices are indispensable in steering the course of data—and its profound impact on AI. In this session, Autumn Nash, software development engineer at AWS and Merry Cimakasky, masters student at Georgia Tech, will facilitate a conversation about the reciprocal benefits that come from investing in and enhancing women's data skills specifically. They will share unique challenges faced by women in tech, which includes military spouses, women of color, and mothers, and will help attendees recognize and emphasize how imperative it is to build and foster a diverse workforce in data to combat bias. Learn how to attract and retain women in data-centric fields, and help to shape more fair and accurate AI.
 
-Diversity doesn't exist to give a warm and fussy feeling, its allows teams to be more innovative, Is directly correlated to an increase in return on investment and is crucial for AI safety and to combat data bias. 
+Diversity doesn't exist to give a warm and fuzzy feeling, its allows teams to be more innovative, Is directly correlated to an increase in return on investment and is crucial for AI safety and to combat data bias. 
 
 “A more diverse workforce is better tooled to identify and remove AI biases as they interpret data, test solutions, and make decisions.” - Sindhu Gangadharan
 
