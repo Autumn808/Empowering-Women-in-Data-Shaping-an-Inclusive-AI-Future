@@ -29,7 +29,8 @@ Diverse voices are indispensable in steering the course of data—and its profou
 
 
 
-##Talk Resources: 
+## Talk Resources: 
+
 The Urgent Need for Bias Mitigation in Large Language Models - https://www.linkedin.com/pulse/urgent-need-bias-mitigation-large-language-models-sahil-agarwal-ljvhc/?trackingId=qsUYt4YSOmRxw7Qw8WC3iw%3D%3D
 
 Facial Recognition Tech Secretly Behind Hundreds of Arrests, Investigation Reveals - https://peopleofcolorintech.com/articles/facial-recognition-tech-secretely-behind-hundreds-of-arrests-investigation-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=facial-recognition-tech-secretely-behind-hundreds-of-arrests-investigation-reveals
