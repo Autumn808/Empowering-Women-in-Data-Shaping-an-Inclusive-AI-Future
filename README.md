@@ -67,6 +67,8 @@ Offer family-friendly work policies and benefits for everyone and Flexibility. p
 Elevate Women’s voices. Do you have a women coworker who's talked over in meetings? Are your female co workers always force to take notes? This is your chance to be an ally and advocate. 
 
 
-Have you ever attended or supported employee resource groups? Volunteer to take notes  or do the paper work?
+Have you ever considered attended or supported employee resource groups? Volunteer to take notes or do the paper work, so it doesn’t become a only woman's job.
 
+
+To learn more here is a Medium article I wrote: https://medium.com/@with-enough-coffee/empowering-women-in-data-shaping-an-inclusive-ai-future-693250c1016e
 
