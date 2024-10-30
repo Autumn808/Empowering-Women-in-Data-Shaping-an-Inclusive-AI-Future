@@ -52,3 +52,21 @@ Why Diverse Teams Are Smarter - https://hbr.org/2016/11/why-diverse-teams-are-sm
 They focus more on facts, They process those facts more carefully, and They are more Innovative. 
 
 
+
+## What can you do to make things better?
+
+Advocate for training programs, apprenticeships and Return-ships. These are ways to help people from diverse backgrounds to get into technology that may otherwise not have the opportunity. Volunteer to assist with Career planning, being a Mentor and or  Sponsor. 
+
+
+Foster a flexible and inclusive work culture. So you've hired women, but have you created an environment they can thrive in? No one wants to be apart of a team they don’t feel valued or heard in. 
+
+Invest in Unbiased interview practices. 
+
+Offer family-friendly work policies and benefits for everyone and Flexibility. paternity leave for men and women -proportionate leave helps to establish  better early care giving habits
+
+Elevate Women’s voices. Do you have a women coworker who's talked over in meetings? Are your female co workers always force to take notes? This is your chance to be an ally and advocate. 
+
+
+Have you ever attended or supported employee resource groups? Volunteer to take notes  or do the paper work?
+
+
